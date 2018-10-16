@@ -1,0 +1,8 @@
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\bin\Debug\MainProject.exe
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\bin\Debug\MainProject.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\obj\x86\Debug\MainProject.csprojResolveAssemblyReference.cache
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\obj\x86\Debug\MainProject.Default.resources
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\obj\x86\Debug\MainProject.Properties.Resources.resources
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\obj\x86\Debug\MainProject.csproj.GenerateResource.Cache
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\obj\x86\Debug\MainProject.exe
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MainProject\obj\x86\Debug\MainProject.pdb

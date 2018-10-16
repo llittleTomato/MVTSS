@@ -1,0 +1,18 @@
+D:\Program Files (x86)\MindVision\Demo\C#\MVSDK\obj\Debug\MVSDK.dll
+D:\Program Files (x86)\MindVision\Demo\C#\MVSDK\obj\Debug\MVSDK.pdb
+D:\Program Files (x86)\MindVision\Demo\C#\MVSDK\MVSDK.dll
+D:\Program Files (x86)\MindVision\Demo\C#\MVSDK\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MVSDK\obj\Debug\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MVSDK\obj\Debug\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MVSDK\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\MVSDK\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\obj\Debug\MVSDK.csprojResolveAssemblyReference.cache
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\obj\Debug\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\obj\Debug\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.12.7\MVTSS\MVSDK\obj\Debug\MVSDK.csprojResolveAssemblyReference.cache
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.12.7\MVTSS\MVSDK\obj\Debug\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.12.7\MVTSS\MVSDK\obj\Debug\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.12.7\MVTSS\MVSDK\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.12.7\MVTSS\MVSDK\MVSDK.pdb

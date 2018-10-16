@@ -1,0 +1,5 @@
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\bin\x86\Debug\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\bin\x86\Debug\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\obj\x86\Debug\MVSDK.dll
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\obj\x86\Debug\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.11.30\MVTSS\MVSDK\obj\x86\Debug\MVSDK.csprojResolveAssemblyReference.cache

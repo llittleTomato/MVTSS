@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVSDK", "MVSDK\MVSDK.csproj", "{65DB9CE0-3829-41AB-AD75-E894502E0090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProject", "Basic\MainProject.csproj", "{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Halcon12_release|Any CPU = Halcon12_release|Any CPU
+		Halcon12_release|Mixed Platforms = Halcon12_release|Mixed Platforms
+		Halcon12_release|x64 = Halcon12_release|x64
+		Halcon12_release|x86 = Halcon12_release|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|x64.Build.0 = Debug|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|x86.ActiveCfg = Debug|x86
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Debug|x86.Build.0 = Debug|x86
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Halcon12_release|Any CPU.ActiveCfg = Halcon12_release|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Halcon12_release|Any CPU.Build.0 = Halcon12_release|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Halcon12_release|Mixed Platforms.ActiveCfg = Halcon12_release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Halcon12_release|Mixed Platforms.Build.0 = Halcon12_release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Halcon12_release|x64.ActiveCfg = Halcon12_release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Halcon12_release|x64.Build.0 = Halcon12_release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Halcon12_release|x86.ActiveCfg = Halcon12_release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Release|Mixed Platforms.Build.0 = Release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Release|x64.ActiveCfg = Release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Release|x64.Build.0 = Release|x64
+		{65DB9CE0-3829-41AB-AD75-E894502E0090}.Release|x86.ActiveCfg = Release|x64
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|x64.ActiveCfg = Debug|x86
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|x64.Build.0 = Debug|x86
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|x86.ActiveCfg = Debug|x86
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Debug|x86.Build.0 = Debug|x86
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Halcon12_release|Any CPU.ActiveCfg = Halcon12_release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Halcon12_release|Any CPU.Build.0 = Halcon12_release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Halcon12_release|Mixed Platforms.ActiveCfg = Halcon12_release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Halcon12_release|Mixed Platforms.Build.0 = Halcon12_release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Halcon12_release|x64.ActiveCfg = Halcon12_release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Halcon12_release|x86.ActiveCfg = Halcon12_release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Release|x64.ActiveCfg = Release|Any CPU
+		{7F5A8254-3488-46DE-925C-AB5E5DAFAFCC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

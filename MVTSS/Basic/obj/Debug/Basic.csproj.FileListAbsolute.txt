@@ -1,0 +1,33 @@
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\bin\Debug\Basic.exe
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\bin\Debug\Basic.pdb
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\bin\Debug\MVSDK.dll
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\bin\Debug\MVSDK.pdb
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\obj\Debug\Basic.BasicForm.resources
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\obj\Debug\Basic.Properties.Resources.resources
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\obj\Debug\Snapshot.SnapshotDlg.resources
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\obj\Debug\Basic.csproj.GenerateResource.Cache
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\obj\Debug\Basic.exe
+D:\Program Files (x86)\MindVision\Demo\C#\Basic\obj\Debug\Basic.pdb
+C:\Users\lenovo\Desktop\test\Basic\obj\Debug\Basic.exe
+C:\Users\lenovo\Desktop\test\Basic\obj\Debug\Basic.pdb
+C:\Users\lenovo\Desktop\test\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\test\Basic\obj\Debug\Basic.BasicForm.resources
+C:\Users\lenovo\Desktop\test\Basic\obj\Debug\Basic.Properties.Resources.resources
+C:\Users\lenovo\Desktop\test\Basic\obj\Debug\Snapshot.SnapshotDlg.resources
+C:\Users\lenovo\Desktop\test\Basic\obj\Debug\Basic.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\test\Basic\bin\Debug\Basic.exe
+C:\Users\lenovo\Desktop\test\Basic\bin\Debug\Basic.pdb
+C:\Users\lenovo\Desktop\test\Basic\bin\Debug\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\obj\Debug\Basic.exe
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\obj\Debug\Basic.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\bin\Debug\Basic.exe
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\bin\Debug\Basic.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\bin\Debug\MVSDK.pdb
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\obj\Debug\Basic.BasicForm.resources
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\obj\Debug\Basic.Properties.Resources.resources
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\obj\Debug\Snapshot.SnapshotDlg.resources
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\test\Basic\obj\Debug\Basic.csproj.GenerateResource.Cache
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\Basic\obj\Debug\Basic.exe
+F:\科研\项目\基于机器视觉技术的曳引轮绳槽参数测量研究\程序\MVTSS-2017.3.31\MVTSS\Basic\obj\Debug\Basic.pdb
